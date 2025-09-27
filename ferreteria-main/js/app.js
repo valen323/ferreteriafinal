@@ -1,5 +1,5 @@
 
-const apiUrl = 'http://localhost:7000/productos';
+const apiUrl = 'http://localhost:3000/productos';
 
 const productoForm = document.getElementById('productoForm');
 const idProductoInput = document.getElementById('idProducto');
